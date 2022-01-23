@@ -5,12 +5,12 @@
 다양한 문화나 성격을 가진 사람들과 협업하는 것을 좋아합니다.
 こんにちは！
 さまざまな経験を通してiOSデベロッパーになりたい이동희と申します！
-<pre><code> {
+
 <a href="https://velog.io/@iseeu95">
     <imgsrc="http://img.shields.io/badge/222222?style=flat&logo=VectorLogoZone&link=https://velog.io/@iseeu95"style="height:auto;margin-left:10px;margin-right:10px;"/>
 </a>
-}
-</pre></code>
+
+
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mechanicdong)](https://solved.ac/mechanicdong)
 
