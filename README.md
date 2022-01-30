@@ -1,5 +1,6 @@
 
 📞Contact - mechanicdong95@gmail.com
+2021.03~Present : Semiconductor Software System Engineer
 
 코딩하는 예술가이자 iOS 개발자로 성장하고 싶은 이동희입니다.
 
