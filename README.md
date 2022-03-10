@@ -20,11 +20,14 @@
 <img src="http://img.shields.io/badge/-Velog-222222?style=flat&logo=VectorLogoZone&link=https://velog.io/@iseeu95"style="height:auto;margin-left:10px;margin-right:10px;"/>
 </a>
 
+
+<!--
 <a href="https://www.instagram.com/if_u_20s/">
     <img 
         src="http://img.shields.io/badge/-Instagram-222222?style=flat&logo=Instagram&link=https://www.instagram.com/if_u_20s/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+</a> 
+-->
 
 
 
