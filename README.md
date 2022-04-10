@@ -3,7 +3,7 @@
 
 
 
-March 2021-March 2022 : FPD/Semiconductor Software System Engineer
+
 
 코딩하는 예술가이자 iOS 개발자로 성장하고 싶은 이동희입니다.
 
@@ -34,3 +34,6 @@ March 2021-March 2022 : FPD/Semiconductor Software System Engineer
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mechanicdong)](https://solved.ac/mechanicdong)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mechanicdong&layout=compact&theme=nightowl&langs_count=8&style="max-width:100%;")](https://github.com/anuraghazra/github-readme-stats)
+
+
+March 2021-March 2022 : FPD/Semiconductor Software System Engineer
