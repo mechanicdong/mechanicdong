@@ -1,5 +1,5 @@
 
-📞Contact - mechanicdong95@gmail.com
+
 
 
 
@@ -12,9 +12,16 @@
 다양한 문화나 성격을 가진 사람들과 협업하는 것을 좋아합니다.
 
 
+2022.12.19 ~ iOS Developer
+
+
 
 こんにちは！
 さまざまな経験を通してiOSデベロッパーになりたい李東熙と申します！
+
+
+📞Contact - mechanicdong95@gmail.com
+
 
 <a href="https://velog.io/@iseeu95">
 <img src="http://img.shields.io/badge/-Velog-222222?style=flat&logo=VectorLogoZone&link=https://velog.io/@iseeu95"style="height:auto;margin-left:10px;margin-right:10px;"/>
